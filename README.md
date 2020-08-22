@@ -1,4 +1,4 @@
-# raspiquickcv2
+# cv2-rpi
 Install opencv on raspbian, scripts that will seamlessly install opencv and its dependencies in <b>10 minutes</b>
 <br>
 Clone this repository on your raspberry pi<br>
