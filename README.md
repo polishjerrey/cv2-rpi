@@ -1,8 +1,8 @@
 # raspiquickcv2
-Install opencv in minutes on raspbian, these scripts will seamlessly install opencv and its dependencies in <b>10 minutes</b>
+Install opencv on raspbian, scripts that will seamlessly install opencv and its dependencies in <b>10 minutes</b>
 <br>
-Download / Clone this repository on your raspberry pi<br>
-Run the following commands from the raspiquickcv2 folder<br>
+Clone this repository on your raspberry pi<br>
+Run the following commands from the cv2-rpi folder<br>
 <code>sudo chmod +x mconda-dep.sh</code><br>
 <code>./mconda-dep.sh</code><br>
 After this command you will have to reboot your raspberry pi<br>
